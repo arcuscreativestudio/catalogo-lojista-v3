@@ -117,7 +117,6 @@
     "specs": [
       { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "40 kg" },
       { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Personalizado — 1 cor (escolha a cor)" },
-      { "icone": "📐", "label": "EXEMPLO", "valor": "Sofisticatto (foto)", "full": true },
       { "icone": "📏", "label": "TAMANHOS", "valor": "50×70\n50×60\n25×70\n35×50\n25×35", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Seda branca — fina e translúcida" },
       { "icone": "🚚", "label": "PRAZO", "valor": "A consultar" }
@@ -131,7 +130,6 @@
     "specs": [
       { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "A partir de 500 metros" },
       { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Logo personalizado (hot stamping)" },
-      { "icone": "📐", "label": "EXEMPLO", "valor": "Luna & Lily (foto)", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Cetim" },
       { "icone": "🎨", "label": "CORES", "valor": "Várias cores disponíveis" },
       { "icone": "🚚", "label": "PRAZO", "valor": "A consultar" }
@@ -171,7 +169,6 @@
     "specs": [
       { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "500 unidades por tamanho" },
       { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "01 cor apenas" },
-      { "icone": "📐", "label": "EXEMPLO", "valor": "Mariana Amaral (foto)", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Papelão simples" },
       { "icone": "📏", "label": "MEDIDAS", "valor": "A consultar" },
       { "icone": "✨", "label": "MODELOS", "valor": "Estilo Correios · Estilo 4 abas", "full": true },
@@ -186,7 +183,7 @@
     "specs": [
       { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades por tamanho" },
       { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Até 4 cores" },
-      { "icone": "📐", "label": "EXEMPLO", "valor": "Lumière Paris (foto)", "full": true },
+      { "icone": "📐", "label": "EXEMPLO", "valor": "Lumière Paris, Astra Essence (foto)", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Microondulado acoplado com Duplex, BCA ou Kraft" },
       { "icone": "✨", "label": "MODELO", "valor": "Estilo Correios", "full": true },
       { "icone": "🚚", "label": "PRAZO", "valor": "A consultar", "full": true }
