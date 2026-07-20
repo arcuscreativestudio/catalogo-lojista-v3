@@ -4,8 +4,8 @@
     "categoria": "SACOLA DE PAPEL CARTÃO · KRAFT",
     "titulo": "Sacola Kraft 200 Gramas",
     "specs": [
-      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 un. por tamanho" },
-      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Ideal até 2 cores" },
+      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 un. por tamanho — apenas 1 cor de impressão" },
+      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Acima de 01 cor - consultar quantidade mínima" },
       { "icone": "📐", "label": "EXEMPLO", "valor": "Aura Parfum (foto)", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Kraft 200g — pardo natural" },
       { "icone": "🔗", "label": "ALÇA", "valor": "Cordão ou gorgurão — várias cores à escolha" },
@@ -18,7 +18,7 @@
     "categoria": "SACOLA DE PAPEL CARTÃO · BCA",
     "titulo": "Sacola BCA 230 Gramas",
     "specs": [
-      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 un. por tamanho" },
+      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 un. por tamanho — apenas 1 cor de impressão" },
       { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Acima de 01 cor - consultar quantidade mínima" },
       { "icone": "📐", "label": "EXEMPLO", "valor": "Bloom & Brew (foto)", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "BCA 230g — papel bege" },
@@ -32,7 +32,7 @@
     "categoria": "SACOLA DE PAPEL CARTÃO · DUPLEX",
     "titulo": "Sacola Duplex 210 Gramas",
     "specs": [
-      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 un. por tamanho" },
+      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 un. por tamanho — apenas 1 cor de impressão" },
       { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Acima de 01 cor - consultar quantidade mínima" },
       { "icone": "📐", "label": "EXEMPLO", "valor": "Paws & Whiskers (foto)", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Duplex 210g (branco)" },
@@ -46,8 +46,8 @@
     "categoria": "SACOLAS KRAFT",
     "titulo": "Sacolas Kraft 100/120 Gramas",
     "specs": [
-      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades por tamanho", "full": true },
-      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "1 cor de impressão", "full": true },
+      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades por tamanho — apenas 1 cor de impressão", "full": true },
+      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Acima de 01 cor - consultar quantidade mínima", "full": true },
       { "icone": "📐", "label": "TAMANHOS", "valor": "18×25×10\n18×32×10\n22×35×10,5\n26×35×11,5\n30×42×13", "side": "left" },
       { "icone": "📄", "label": "MATERIAL", "valor": "Kraft 100/120g", "side": "left" },
       { "icone": "🔗", "label": "ALÇA", "valor": "Cordão ou gorgurão — várias cores à escolha" },
@@ -73,8 +73,8 @@
     "categoria": "SACOLA ALÇA FITA",
     "titulo": "Sacola Alça Fita",
     "specs": [
-      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades" },
-      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "1 cor — acima de 2 cores, somente quantidades maiores" },
+      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades — apenas 1 cor de impressão" },
+      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Acima de 01 cor - consultar quantidade mínima" },
       { "icone": "📐", "label": "TAMANHOS", "valor": "A consultar", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Plástico de baixa densidade — consultar cores disponíveis" },
       { "icone": "🔗", "label": "ALÇA", "valor": "Fita colada" },
@@ -87,8 +87,8 @@
     "categoria": "SACOLA ALÇA CORDÃO",
     "titulo": "Sacola Plástica Alça Cordão",
     "specs": [
-      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades por tamanho" },
-      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "1 cor — acima de 2 cores, somente quantidades maiores" },
+      { "icone": "📦", "label": "QTD. MÍNIMA", "valor": "1.000 unidades por tamanho — apenas 1 cor de impressão" },
+      { "icone": "🖌️", "label": "IMPRESSÃO", "valor": "Acima de 01 cor - consultar quantidade mínima" },
       { "icone": "📐", "label": "TAMANHOS", "valor": "A consultar", "full": true },
       { "icone": "📄", "label": "MATERIAL", "valor": "Plástico de baixa densidade" },
       { "icone": "🔗", "label": "ALÇA", "valor": "Cordão — várias cores" },
