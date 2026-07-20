@@ -300,6 +300,10 @@
     gap: 8px;
     pointer-events: none;
   }
+  .info-overlay--top {
+    top: calc(64px + var(--safe-top));
+    bottom: auto;
+  }
   .info-overlay > * { pointer-events: auto; }
   .step {
     font-size: 11px;
@@ -750,7 +754,7 @@
       <img class="bg-photo" src="data:image/webp;base64,__P2_B64__" alt="Sacolas Kraft Personalizadas">
       <div class="img-veil"></div>
 
-      <div class="info-overlay">
+      <div class="info-overlay info-overlay--top">
         <span class="step">2 DE 13</span>
         <h2>Sacolas Kraft</h2>
       </div>
@@ -767,7 +771,7 @@
       <img class="bg-photo" src="data:image/webp;base64,__P3_B64__" alt="Sacola Plástica Boca Vazada">
       <div class="img-veil"></div>
 
-      <div class="info-overlay">
+      <div class="info-overlay info-overlay--top">
         <span class="step">3 DE 13</span>
         <h2>Sacola Plástica Boca Vazada</h2>
       </div>
@@ -784,7 +788,7 @@
       <img class="bg-photo" src="data:image/webp;base64,__P4_B64__" alt="Sacola Plástica Alça Fita">
       <div class="img-veil"></div>
 
-      <div class="info-overlay">
+      <div class="info-overlay info-overlay--top">
         <span class="step">4 DE 13</span>
         <h2>Sacola Alça Fita</h2>
       </div>
@@ -924,7 +928,7 @@
         <button class="tag-pill" data-product="p11-c" aria-label="Ver Envelope de Segurança">Envelope de Segurança</button>
       </div>
 
-      <div class="info-overlay">
+      <div class="info-overlay info-overlay--top">
         <span class="step">11 DE 13</span>
         <h2>Caixas e Sacos Personalizados</h2>
       </div>
@@ -967,7 +971,7 @@
       <img class="bg-photo" src="data:image/webp;base64,__P13_B64__" alt="Bobinas de Papel de Presente">
       <div class="img-veil"></div>
 
-      <div class="info-overlay">
+      <div class="info-overlay info-overlay--top">
         <span class="step">13 DE 13</span>
         <h2>Bobinas de Papel de Presente</h2>
       </div>
@@ -1115,8 +1119,8 @@
       specs: [
         { icone: "📦", label: "QTD. MÍNIMA", valor: "1.000 unidades por tamanho — apenas 1 cor de impressão", full: true },
         { icone: "🖌️", label: "IMPRESSÃO", valor: "Até 4 cores — a partir de quantidade mínima a consultar", full: true },
-        { icone: "📐", label: "TAMANHOS", valor: "16×20 – esp. 0,010\n20×30 – esp. 0,010\n25×38 – esp. 0,014\n33×44 – esp. 0,014\n40×50 – esp. 0,014", full: true },
-        { icone: "📏", label: "MEDIDAS E CORES", valor: "A consultar", full: true },
+        { icone: "📐", label: "TAMANHOS PADRÃO", valor: "16×20 – esp. 0,010\n20×30 – esp. 0,010\n25×38 – esp. 0,014\n33×44 – esp. 0,014\n40×50 – esp. 0,014", full: true },
+        { icone: "📏", label: "OUTRAS MEDIDAS E CORES", valor: "A consultar", full: true },
         { icone: "🚚", label: "PRAZO", valor: "A consultar", full: true }
       ],
       dica: ""
@@ -1130,7 +1134,7 @@
       specs: [
         { icone: "📦", label: "QTD. MÍNIMA", valor: "1.000 unidades" },
         { icone: "🖌️", label: "IMPRESSÃO", valor: "1 cor — acima de 2 cores, somente quantidades maiores" },
-        { icone: "📐", label: "TAMANHOS", valor: "Vários tamanhos (sob consulta)", full: true },
+        { icone: "📐", label: "TAMANHOS", valor: "50×70\n50×60\n25×70\n35×50\n25×35", full: true },
         { icone: "📄", label: "MATERIAL", valor: "Plástico de baixa densidade — consultar cores disponíveis" },
         { icone: "🔗", label: "ALÇA", valor: "Fita colada" },
         { icone: "🚚", label: "PRAZO", valor: "A consultar", full: true }
